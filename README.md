@@ -51,6 +51,7 @@
 4. Highest Entropy in ELF files
 
 - [ ] ent -c your_file.elf
+- [ ] sha384sum test.txt
 
 5. ELF entry point
 
